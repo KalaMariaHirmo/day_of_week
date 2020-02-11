@@ -1,0 +1,16 @@
+{
+  "name": "day-of-week",
+  "version": "1.0.0",
+  "description": "Zis project will show you the day of week of a given date",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
